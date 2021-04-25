@@ -15,3 +15,4 @@ gateway和应用放到linux环境（2核4G），通过wrk测试下
 
 
 关注公众号：木巴沙
+![image](https://user-images.githubusercontent.com/26828775/115985915-92422d80-a5e0-11eb-95af-7dffe6bff87d.png)
